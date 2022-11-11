@@ -1,1 +1,1 @@
-# Frills-Discord
+# Frills
